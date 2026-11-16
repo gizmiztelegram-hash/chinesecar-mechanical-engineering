@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://gizmiztelegram-hash.github.io/chinesecar-mechanical-engineering/sitemap.xml
